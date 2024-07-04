@@ -1,8 +1,10 @@
 # RemoteXS - Remote File Sharing Made Easy
 
+![RemoteXS Logo]([path/to/your/image.png](https://raw.githubusercontent.com/LMLK-seal/RemoteXS/main/RemoteXS.png))
+
 ## 1. Setup
 
-- **Install Python:** Ensure you have Python installed on your system. You can download it from [https://www.python.org/](https://www.python.org/).
+- **Install library:** Ensure you have Python installed the requests library: pip install requests
 - **Run the program:** Save the provided Python code as a file named `RemoteXS.py` and then run it from your terminal using `python RemoteXS.py`.
 
 ## 2. Configure the Server
