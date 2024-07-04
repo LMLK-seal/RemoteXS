@@ -1,6 +1,6 @@
 # RemoteXS - Remote File Sharing Made Easy
 
-![RemoteXS Logo]([path/to/your/image.png](https://raw.githubusercontent.com/LMLK-seal/RemoteXS/main/RemoteXS.png))
+<img src="https://raw.githubusercontent.com/LMLK-seal/RemoteXS/main/RemoteXS.png" alt="RemoteXS Logo" width="200"/>
 
 ## 1. Setup
 
