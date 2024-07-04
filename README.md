@@ -33,7 +33,7 @@
    ```
    http://[your_IP_address]:[port_number]
    ```
-3. **Enter the password:** The remote user will be prompted to enter the password you set for the shared folder.
+3. **Enter the password:** The remote user will be prompted to enter the password you set for the shared folder (Admin should be empty).
 
 ## 6. Stop the Server
 
